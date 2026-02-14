@@ -33,8 +33,8 @@ Mã nguồn được thiết kế theo hướng **Modular Programming**, tận d
 
 ## 📂 Tổ chức mã nguồn
 * `Firmware/`: Chứa mã nguồn chính chia theo các khối chức năng (`SensorBlock`, `ControlBlock`, `MotorBlock`,...).
-* `Hardware/`: Sơ đồ nguyên lý, thiết kế khớp chân và sơ đồ đi dây.
-* `Assets/`: Hình ảnh robot vận hành và kết quả mô phỏng/debug.
+* `Hardware/`: Thiết kế cơ khí, Mô hình 3D.
+* `Documentation/`: Sơ đồ nguyên lý, Sơ đồ đi dây, Hình ảnh robot vận hành và kết quả mô phỏng/debug.
 
 ## 🚀 Hướng dẫn vận hành
 1. Nạp code vào ESP32 thông qua Arduino IDE hoặc PlatformIO.
