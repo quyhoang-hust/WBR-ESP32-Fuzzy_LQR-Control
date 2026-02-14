@@ -23,8 +23,13 @@ Mã nguồn được thiết kế theo hướng **Modular Programming**, tận d
 * **TaskDebug:** Giao tiếp Serial, nhận lệnh thay đổi chiều cao thời gian thực và xuất dữ liệu ra Serial Plotter.
 
 ## 📺 Video vận hành thực tế
-[![Xem video robot cân bằng](https://img.youtube.com/vi/h3YY7-l_Uk0/0.jpg)](https://www.youtube.com/watch?v=h3YY7-l_Uk0)
-*Nhấn vào hình ảnh trên để xem video demo trên YouTube*
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=h3YY7-l_Uk0">
+    <img src="https://img.youtube.com/vi/h3YY7-l_Uk0/0.jpg" alt="WBR Robot Balancing" width="600">
+  </a>
+  <br>
+  <b>Nhấn vào hình ảnh trên để xem video demo trên YouTube</b>
+</div>
 
 ## 📂 Tổ chức mã nguồn
 * `Firmware/`: Chứa mã nguồn chính chia theo các khối chức năng (`SensorBlock`, `ControlBlock`, `MotorBlock`,...).
